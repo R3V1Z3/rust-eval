@@ -1,7 +1,6 @@
 extern crate eval;
 
 use std::env;
-use std::string;
 use eval::{eval};
 
 fn main() {
