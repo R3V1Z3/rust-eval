@@ -15,6 +15,6 @@ Once compiled, find the binary file in the /target/ folder and run it with math 
 `./rust-eval 5+5`
 `./rust-eval 5+(5*5)-5`
 
-Dependencies
+## Dependencies
 
 eval: https://crates.io/crates/eval
