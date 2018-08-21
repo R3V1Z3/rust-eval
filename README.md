@@ -10,10 +10,10 @@ Dead simple command-line expression evaluator in Rust as an example project
 
 ## Usage
 
-Once compiled, find the binary file in the /target/ folder and run it with math expressions as parameters.
+Once compiled, find the binary file in the /target/release/ folder and run it with math expressions as parameters.
 
-`./rust-eval 5+5`
-`./rust-eval 5+(5*5)-5`
+`./eval 5+5`
+`./eval 5+(5*5)-5`
 
 ## Dependencies
 
